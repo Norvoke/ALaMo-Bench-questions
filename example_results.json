@@ -1,0 +1,220 @@
+{
+  "skills": [
+    {
+      "name": "Speaker Identification",
+      "tag": "NO",
+      "confidence": 0.6439999999999999,
+      "votes": [
+        "NO",
+        "NO",
+        "NO",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Speaker Demographics",
+      "tag": "NO",
+      "confidence": 0.6279999999999999,
+      "votes": [
+        "NO",
+        "YES",
+        "YES",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Language Identification",
+      "tag": "YES",
+      "confidence": 0.626,
+      "votes": [
+        "YES",
+        "YES",
+        "NO",
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "name": "Lexical and Phrase-Level Recognition",
+      "tag": "NO",
+      "confidence": 0.578,
+      "votes": [
+        "NO",
+        "YES",
+        "NO",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Prosody Detection",
+      "tag": "NO",
+      "confidence": 0.632,
+      "votes": [
+        "YES",
+        "NO",
+        "NO",
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "name": "Paralinguistic/Emotion Recognition",
+      "tag": "YES",
+      "confidence": 0.6119999999999999,
+      "votes": [
+        "YES",
+        "NO",
+        "YES",
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "name": "Speech Activity, Turn-Taking and Overlap Detection",
+      "tag": "NO",
+      "confidence": 0.49,
+      "votes": [
+        "YES",
+        "YES",
+        "YES",
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "name": "Audio Quality, Artifacts & Channel Characteristics",
+      "tag": "NO",
+      "confidence": 0.728,
+      "votes": [
+        "NO",
+        "YES",
+        "YES",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Social Role and Relationship Inference",
+      "tag": "NO",
+      "confidence": 0.558,
+      "votes": [
+        "NO",
+        "NO",
+        "NO",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Speaker Intent, Pragmatics and Causal Reasoning",
+      "tag": "YES",
+      "confidence": 0.6719999999999999,
+      "votes": [
+        "NO",
+        "YES",
+        "YES",
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "name": "Quantitative Reasoning (Counting/Arithmetic Comparison)",
+      "tag": "NO",
+      "confidence": 0.6719999999999999,
+      "votes": [
+        "NO",
+        "YES",
+        "NO",
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "name": "Temporal and Ordering Reasoning",
+      "tag": "YES",
+      "confidence": 0.6379999999999999,
+      "votes": [
+        "YES",
+        "YES",
+        "NO",
+        "NO",
+        "YES"
+      ]
+    },
+    {
+      "name": "Logical/Consistency Reasoning",
+      "tag": "NO",
+      "confidence": 0.588,
+      "votes": [
+        "NO",
+        "YES",
+        "NO",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Cross-frontier Entity Linking",
+      "tag": "YES",
+      "confidence": 0.6679999999999999,
+      "votes": [
+        "NO",
+        "YES",
+        "NO",
+        "YES",
+        "YES"
+      ]
+    },
+    {
+      "name": "Ground Truth and World Knowledge Integration",
+      "tag": "YES",
+      "confidence": 0.53,
+      "votes": [
+        "YES",
+        "YES",
+        "YES",
+        "YES",
+        "NO"
+      ]
+    },
+    {
+      "name": "Contextual/Causal Scenario Reasoning",
+      "tag": "YES",
+      "confidence": 0.568,
+      "votes": [
+        "YES",
+        "YES",
+        "YES",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Semantic Abstraction and Summarization",
+      "tag": "NO",
+      "confidence": 0.576,
+      "votes": [
+        "YES",
+        "YES",
+        "NO",
+        "NO",
+        "NO"
+      ]
+    },
+    {
+      "name": "Comparative and Preference-Based Judgments",
+      "tag": "NO",
+      "confidence": 0.5840000000000001,
+      "votes": [
+        "NO",
+        "YES",
+        "YES",
+        "NO",
+        "NO"
+      ]
+    }
+  ]
+}
